@@ -10,8 +10,8 @@ In the second session, we invite current students who are doing computational re
 
 **Python File to Check**: *File_Manipulation.ipynb* and *Intro_to_Materials_API.ipynb* and *Supervised_ML.ipynb* and *web_application.ipynb*
 
-**Date**: Saturday 02/25/2023 and Sunday 02/26/2023
-**Time**: 12:00 pm to 2:30 pm
-**Location**: SME 248
-**Institution**: UC San Diego
-**Food**: Bagels and light refreshment
+**Date**: Saturday 02/25/2023 and Sunday 02/26/2023\
+**Time**: 12:00 pm to 2:30 pm\
+**Location**: SME 248\
+**Institution**: UC San Diego\
+**Food**: Bagels and light refreshment\
