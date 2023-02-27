@@ -4,11 +4,11 @@ Being an engineering student, chances are you know Python or have heard about Py
 
 In the first session, we will review the basics of Python and help you transfer your MATLAB knowledge to Python. You can expect to leave this first session with three main takeaways: **1. Knowing how to create a Jupyter notebook, 2. Familiarity with the standard Python libraries and how they are used for data processing and visualization, and last but not least, 3. Having a rudimentary understanding of correlation-based clustering algorithms.**
 
-**Python File to Check**: Day_1_Part_A.ipynb and Day_1_Part_B.ipynb
+**Python File to Check**: *Day_1_Part_A.ipynb* and *Day_1_Part_B.ipynb* *Day_1_Part_C.ipynb*
 
 In the second session, we invite current students who are doing computational research at UCSD to showcase how they use Python in their day-to-day research life and give instructive Python examples. The main points of the second session are **1. Working with APIs to acquire data from public databases, 2. Creating supervised machine learning models, 3. Productizing your Python program by turning it into a website application...using Python**
 
-**Python File to Check**: Check back tomorrow!
+**Python File to Check**: *File_Manipulation.ipynb* and *Intro_to_Materials_API.ipynb* and *Supervised_ML.ipynb* and *web_application.ipynb*
 
 **Date**: Saturday 02/25/2023 and Sunday 02/26/2023
 **Time**: 12:00 pm to 2:30 pm
