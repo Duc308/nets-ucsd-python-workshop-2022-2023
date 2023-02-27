@@ -14,4 +14,4 @@ In the second session, we invite current students who are doing computational re
 **Time**: 12:00 pm to 2:30 pm\
 **Location**: SME 248\
 **Institution**: UC San Diego\
-**Food**: Bagels and light refreshment\
+**Food**: Bagels and light refreshment
