@@ -8,7 +8,7 @@ Being an engineering student, chances are you know Python or have heard about Py
 **Institution**: UC San Diego\
 **Food**: Bagels and light refreshment\
 
-⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪
+▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪
 
 In the first session, we will review the basics of Python to help you transfer your MATLAB knowledge to Python. You can expect to leave this first session with three main takeaways: 
 <ol>
@@ -20,7 +20,7 @@ In the first session, we will review the basics of Python to help you transfer y
 **Python Folder to Check**: *Day-1-Getting Started and Data Processing in Python*\
 **Topic Leader**: Duc Tran and Mai Her
 
-⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪
+▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪
 
 In the second session, we invite current students who are doing computational research at UCSD to showcase how they use Python in their day-to-day research life and give instructive Python examples. The main takeaways of the second session are:
 <ol>
@@ -32,7 +32,7 @@ In the second session, we invite current students who are doing computational re
 **Python Folder to Check**: *Day-2-Python Applications in Materials Science Showcase*\
 **Topic Leader**: Mai Her, Ethan Doan, and Duc Tran
 
-⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪
+▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪
 
 In the third session, we review the fundamentals presented in the first session, and touch on object-oriented programming in Python. A more in-depth discussion about machine learning in Python is also provided. We touched on the needs for regularization for linear regression model, and then showcase the use of a neural network model for materials science application. The main takeaways of the third session are:
 <ol>
@@ -44,7 +44,7 @@ In the third session, we review the fundamentals presented in the first session,
 **Python Folder to Check**: *Day-3-Objects-Classes-Supervised-ML*\
 **Topic Leader**: Ethan Doan and Mai Her
 
-⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪
+▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪
 
 In the fourth session, we discuss the importance of productizing ML models in science and engineering. A simple Python Streamllit template is provided to help you create your first website application. Secondly, we discuss how to use Pycalphad to take public multicomponent property data and generate phase diagrams and other meaningful plots to assist you in your research. The main takeaways of the fourth session are:
 
@@ -57,6 +57,6 @@ In the fourth session, we discuss the importance of productizing ML models in sc
 **Python Folder to Check**: *Day-4-Web-Application-and-Materials-Phase-Diagram*\
 **Topic Leader**: Duc Tran and Eric Oberholtz
 
-⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪⚪
+▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪▪
 
 
