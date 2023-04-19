@@ -1,0 +1,39 @@
+$---------------------------------------------------------------------------------------------------------------------
+$ [86Hay]	F. H. Hayes, H. L. Lukas, G. Effenberg, and G. Petzow, Z. Metallkde, 77(11), 1986, 749-754.	Cu-Ag-Pb
+$---------------------------------------------------------------------------------------------------------------------
+
+$  case_sensitive 
+
+ELEMENT Ag	Crystal                     107.868           5745          42.55 !
+ELEMENT Cu	FCC_A1                       63.546           5004          33.15 !
+ELEMENT Va	Vacancy                           0              0              0 !
+
+
+FUNCTION G_Ag_FCC  298.15  -7209.51+118.202*T-23.8463*T*LN(T)-0.00179058*T**2-12011*T**(-1)-3.98587e-007*T**3; 1234.93 Y
+	-15095.3+190.266*T-33.472*T*LN(T)+1.412e+029*T**(-9); 3000 N !
+
+FUNCTION G_Ag_LIQUID  298.15  3815.56+109.311*T-23.8463*T*LN(T)-0.00179058*T**2-12011*T**(-1)-3.98587e-007*T**3-1.034e-020*T**7; 1234.93 Y
+	-3587.11+180.965*T-33.472*T*LN(T); 3000 N !
+
+FUNCTION G_Cu_FCC  298.15  -7770.46+130.485*T-24.1124*T*LN(T)-0.00265684*T**2+52478*T**(-1)+1.29223e-007*T**3; 1357.77 Y
+	-13542+183.804*T-31.38*T*LN(T)+3.642e+029*T**(-9); 3200 N !
+
+
+FUNCTION G_Cu_LIQUID  298.15  5194.28+120.973*T-24.1124*T*LN(T)-0.00265684*T**2+52478*T**(-1)+1.29223e-007*T**3-5.849e-021*T**7; 1357.77 Y
+	-46.545+173.881*T-31.38*T*LN(T); 3200 N !
+
+Phase FCC % 1 1 !
+Constituent FCC : Ag, Cu : !
+Parameter G(FCC, Ag; 0) 298.15  G_Ag_FCC; 6000 N !
+Parameter G(FCC, Cu; 0) 298.15  G_Cu_FCC; 6000 N !
+Parameter G(FCC, Ag, Cu; 0)  298.15  33819.1-8.1236*T; 6000 N !
+Parameter G(FCC, Ag, Cu; 1)  298.15  -5601.9+1.32997*T; 6000 N !
+
+Phase Liquid % 1 1 !
+Constituent Liquid : Ag, Cu : !
+Parameter G(Liquid, Ag; 0) 298.15  G_Ag_LIQUID; 6000 N !
+Parameter G(Liquid, Cu; 0) 298.15  G_Cu_LIQUID; 6000 N !
+Parameter G(Liquid, Ag, Cu; 0)  298.15  17534.6-4.45479*T; 6000 N !
+Parameter G(Liquid, Ag, Cu; 1)  298.15  2251.3-2.6733*T; 6000 N !
+Parameter G(Liquid, Ag, Cu; 2)  298.15  492.7; 6000 N !
+
