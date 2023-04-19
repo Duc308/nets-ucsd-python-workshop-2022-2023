@@ -18,7 +18,8 @@ In the second session, we invite current students who are doing computational re
 </ol>
 **Python Folder to Check**: *Day-2-Python Applications in Materials Science Showcase*
 
-**Dates**: 02/25/2023 and 02/26/2023, 04/15/2023 and 04/16/2023 \\
+**Dates**: 02/25/2023 and 02/26/2023, 04/15/2023 and 04/16/2023 
+
 **Time**: 12:00 pm to 2:30 pm\
 **Location**: SME 248\
 **Institution**: UC San Diego\
