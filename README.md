@@ -47,4 +47,4 @@ In the fourth session, we discuss the importance of productizing ML models in sc
 **Time**: 12:00 pm to 2:30 pm\
 **Location**: SME 248\
 **Institution**: UC San Diego\
-**Food**: Bagels and light refreshment
+**Food**: Bagels and light refreshment\
