@@ -11,7 +11,7 @@ In the first session, we will review the basics of Python to help you transfer y
 
 **Python Folder to Check**: *Day-1-Getting Started and Data Processing in Python*
 
-In the second session, we invite current students who are doing computational research at UCSD to showcase how they use Python in their day-to-day research life and give instructive Python examples. The main points of the second session are: **1. Working with APIs to acquire data from public databases, 2. Creating supervised machine learning models, 3. Productizing your Python program by turning it into a website application...using Python**
+In the second session, we invite current students who are doing computational research at UCSD to showcase how they use Python in their day-to-day research life and give instructive Python examples. The main points of the second session are:
 <ol>
   <li>Working with APIs to acquire data from public databases</li>
   <li>Creating supervised machine learning models</li>
@@ -19,6 +19,20 @@ In the second session, we invite current students who are doing computational re
 </ol>
 
 **Python Folder to Check**: *Day-2-Python Applications in Materials Science Showcase*
+
+In the third session, we review the fundamentals presented in the first session, and touch on object-oriented programming in Python. A more in-depth discussion about machine learning in Python is also provided. We touched on the needs for regularization for linear regression model, and then showcase the use of a neural network model for materials science application.
+<ol>
+  <li>Creating classes and objects in Python</li>
+  <li>Understanding the steps to train a machine learning model</li>
+  <li>Gaining familiarity with Linear, Ridge Regression, and Tensorflow</li>
+</ol>
+
+**Python Folder to Check**: *Day-3-Objects-Classes-Supervised-ML*
+
+In the fourth session, we discuss the importance of productizing ML models in science and engineering. A simple Python Streamllit template is provided to help you create your first website application. Secondly, we discuss how to use Pycalphad to take public multicomponent property data and generate phase diagrams and other meaningful plots to assist you in your research.
+
+
+
 
 **Dates**: 02/25/2023 and 02/26/2023, 04/15/2023 and 04/16/2023\
 **Time**: 12:00 pm to 2:30 pm\
