@@ -1,4 +1,4 @@
-# nets-ucsd-python-workshop-2022
+# nets-ucsd-python-workshop-2022/2023
 
 Being an engineering student, chances are you know Python or have heard about Python and its growing versatility in the scientific and engineering community. In the NANO curriculum alone, NANO courses such as 110, 114, and 181 often expect students to do a lot of coding as homework. Outside academics, Python is among the most hirable skills for engineering and research positions. With these reasons in mind, we are proud to present this 2-day Python in Materials Science workshop that we hope will give you some exposure to the miracles of Python and help you achieve academic and career success. 
 
