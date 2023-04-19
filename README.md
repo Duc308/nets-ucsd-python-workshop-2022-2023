@@ -8,18 +8,15 @@ In the first session, we will review the basics of Python to help you transfer y
   <li>Familiarity with the standard Python libraries and how they are used for data processing and visualization</li>
   <li>Having a rudimentary understanding of correlation-based clustering algorithms</li>
 </ol>
-**1. Knowing how to create a Jupyter notebook, 2. Familiarity with the standard Python libraries and how they are used for data processing and visualization, and last but not least, 3. Having a rudimentary understanding of correlation-based clustering algorithms.**
-
-<span style="color:blue">some *blue* text</span>.
-
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
-**Python File to Check**: *Day_1_Part_A.ipynb* and *Day_1_Part_B.ipynb* *Day_1_Part_C.ipynb*
+**Python Folder to Check**: *Day-1-Getting Started and Data Processing in Python*
 
 In the second session, we invite current students who are doing computational research at UCSD to showcase how they use Python in their day-to-day research life and give instructive Python examples. The main points of the second session are: **1. Working with APIs to acquire data from public databases, 2. Creating supervised machine learning models, 3. Productizing your Python program by turning it into a website application...using Python**
-
-**Python File to Check**: *File_Manipulation.ipynb* and *Intro_to_Materials_API.ipynb* and *Supervised_ML.ipynb* and *web_application.ipynb*
-
-In the third session, we 
+<ol>
+  <li>Working with APIs to acquire data from public databases</li>
+  <li>Creating supervised machine learning models</li>
+  <li>Productizing your Python program by turning it into a website application...using Python</li>
+</ol>
+**Python Folder to Check**: *Day-2-Python Applications in Materials Science Showcase*
 
 **Date**: 02/25/2023 and 02/26/2023, 04/15/2023 and 04/16/2023
 **Time**: 12:00 pm to 2:30 pm\
