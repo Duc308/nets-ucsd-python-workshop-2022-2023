@@ -63,5 +63,5 @@ Contact us:
 **Duc Tran** -- dht003@ucsd.edu\
 **Ethan Doan** -- ekdoan@ucsd.edu\
 **Mai Her** -- mher@ucsd.edu\
-**Eric Oberholtz** -- eoberhol@ucsd.edu\
+**Eric Oberholtz** -- eoberhol@ucsd.edu
 
