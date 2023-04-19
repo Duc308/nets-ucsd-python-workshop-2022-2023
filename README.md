@@ -11,6 +11,8 @@ In the first session, we will review the basics of Python to help you transfer y
 **1. Knowing how to create a Jupyter notebook, 2. Familiarity with the standard Python libraries and how they are used for data processing and visualization, and last but not least, 3. Having a rudimentary understanding of correlation-based clustering algorithms.**
 
 <span style="color:blue">some *blue* text</span>.
+
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
 **Python File to Check**: *Day_1_Part_A.ipynb* and *Day_1_Part_B.ipynb* *Day_1_Part_C.ipynb*
 
 In the second session, we invite current students who are doing computational research at UCSD to showcase how they use Python in their day-to-day research life and give instructive Python examples. The main points of the second session are: **1. Working with APIs to acquire data from public databases, 2. Creating supervised machine learning models, 3. Productizing your Python program by turning it into a website application...using Python**
